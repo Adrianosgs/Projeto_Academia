@@ -1,0 +1,55 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "ADRIANO G",
+      "email": "adriano.sgs@gmail.com",
+      "birth": 949449600000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "106",
+      "height": "195",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1526314149856-d8cf115d62f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=387&q=80",
+      "name": "Andre",
+      "email": "adriano.sgs@gmail.com",
+      "birth": null,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "102",
+      "height": "195",
+      "id": 2
+    }
+  ],
+  "instrutores": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1526506118085-60ce8714f8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Brenda",
+      "birth": 692150400000,
+      "gender": "F",
+      "services": "crossfit",
+      "created_at": 1599907475769,
+      "id": "5"
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1526314149856-d8cf115d62f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=387&q=80",
+      "name": "Eu 02",
+      "birth": 692150400000,
+      "gender": "M",
+      "services": "crossfit",
+      "created_at": 1600005653708,
+      "id": 6
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1532384816664-01b8b7238c8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+      "name": "Adriano",
+      "birth": 692150400000,
+      "gender": "M",
+      "services": "crossfit",
+      "created_at": 1600082689103,
+      "id": 7
+    }
+  ]
+}
