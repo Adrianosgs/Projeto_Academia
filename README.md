@@ -1,16 +1,13 @@
 # Projeto academia
 
-![print01](https://user-images.githubusercontent.com/69124206/109396409-2741e680-7910-11eb-9276-90562151d005.png)
+![printnetflix](https://user-images.githubusercontent.com/69124206/110850007-1b4e1100-828e-11eb-8d0a-b9fd56b62365.png)
 
 ## 🚀 Sobre o Projeto
 
-Foi desenvolvido um sistema para gerencia o cadastro Instrutores e Membros em uma academia.
-Foram construidas as seguintes Funções:
+Foi desenvolvido um clone da tela da Netflix usando React:
 
-- Cadastrar
-- Editar
-- Listar
-- Deletar
+- visualizar a lista de filmes
+- ver os filmes em destaque
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -20,10 +17,5 @@ Foram construidas as seguintes Funções:
 - HTML5
 - CSS3
 - Javascript
-- Nunjucks
+- React
 
-###  ✔ Back-end
-
-- Node.js
-- Express
-- Nunjucks
